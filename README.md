@@ -13,8 +13,7 @@ Required to submit:
 3) a code book that describes the variables, the data, and any transformations or work performed. 
 4) a README.md in the repo with the Rscript. 
 
-## Data set is downloaded from:
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+## Data set is downloaded from:http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 ## This download contains: 
 Human Activity Recognition Using Smartphones Dataset Version 1.0
